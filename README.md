@@ -1,2 +1,2 @@
-# practice
-python and tensorflow pracitice
+# Practice
+Python and TensorFlow practice
